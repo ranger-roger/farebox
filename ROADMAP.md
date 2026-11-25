@@ -35,4 +35,4 @@ schemes that already exist in the x402 v2 libraries farebox uses.
 - **Hosted farebox** — managed deployments for operators who don't want to run
   anything, built on the same self-custodial settlement.
 
-Suggestions and interop reports: [issues](https://github.com/sneakbts/farebox/issues).
+Suggestions and interop reports: [issues](https://github.com/ranger-roger/farebox/issues).

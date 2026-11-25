@@ -115,7 +115,7 @@ If it speaks HTTP, it can charge.
 Put a fare on anything.
 
 Site: https://farebox.dev
-Code: https://github.com/sneakbts/farebox
+Code: https://github.com/ranger-roger/farebox
 
 BUSL-1.1 (free to self-host, MIT in 2029). Issues and PRs welcome — especially x402 client interop reports.
 

@@ -48,11 +48,11 @@ If pushed on "why not X chain":
 
 ## "Is it audited?"
 
-> There's nothing to audit in the usual sense: no custom smart contracts, no custody. Farebox is a proxy plus the standard x402 libraries. The USDC transfer goes buyer → your wallet; Farebox verifies and forwards. The code is public and short — read it: github.com/sneakbts/farebox
+> There's nothing to audit in the usual sense: no custom smart contracts, no custody. Farebox is a proxy plus the standard x402 libraries. The USDC transfer goes buyer → your wallet; Farebox verifies and forwards. The code is public and short — read it: github.com/ranger-roger/farebox
 
 Shorter variant:
 
-> It's a proxy, not a protocol. No custom contracts, no funds held, standard x402 libs. The whole thing is readable in one sitting: github.com/sneakbts/farebox
+> It's a proxy, not a protocol. No custom contracts, no funds held, standard x402 libs. The whole thing is readable in one sitting: github.com/ranger-roger/farebox
 
 ---
 

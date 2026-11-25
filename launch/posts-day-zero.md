@@ -22,7 +22,7 @@ farebox@0.1.0 is live on npm as of today.
 
 npx farebox --target <your-api> --pay-to 0xYou --price 0.005
 
-Works cold — no install, no account, no config file. One command and your endpoint charges USDC per request. Code: github.com/sneakbts/farebox
+Works cold — no install, no account, no config file. One command and your endpoint charges USDC per request. Code: github.com/ranger-roger/farebox
 
 ### 1c. Receipts
 

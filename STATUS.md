@@ -34,7 +34,7 @@ Updated: 2026-11-20 (session 1 — LAUNCHED: site live at farebox.dev, repo publ
 ## Launched 2026-11-20
 
 - **https://farebox.dev LIVE** (+ www; demo at https://demo.farebox.dev and farebox-demo.vercel.app, Base mainnet).
-- **GitHub public: https://github.com/sneakbts/farebox** (main, full history).
+- **GitHub public: https://github.com/ranger-roger/farebox** (main, full history).
 
 ## Remaining
 

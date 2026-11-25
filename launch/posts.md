@@ -70,7 +70,7 @@ Things we want in Farebox next, in rough order:
 - a local receipts log you can grep
 - config file for people who hate long flags
 
-If one of these is your itch, the repo is public. github.com/sneakbts/farebox
+If one of these is your itch, the repo is public. github.com/ranger-roger/farebox
 
 ---
 
