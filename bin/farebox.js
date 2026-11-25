@@ -1,7 +1,12 @@
 #!/usr/bin/env node
+import { readFileSync } from "node:fs";
 import { Command } from "commander";
 import { createFarebox } from "../src/proxy.js";
 import { NETWORKS } from "../src/networks.js";
+
+const { version } = JSON.parse(
+  readFileSync(new URL("../package.json", import.meta.url), "utf8")
+);
 
 const program = new Command();
 
@@ -30,7 +35,7 @@ program
   )
   .option("--rpc-url <url>", "RPC endpoint override for self-settlement")
   .option("--description <text>", "description shown to payers in the 402 response")
-  .version("0.1.0");
+  .version(version);
 
 program.parse();
 const opts = program.opts();
