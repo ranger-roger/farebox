@@ -1,6 +1,6 @@
 {
   "name": "farebox",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Put a USDC fare on anything. One-command x402 paywall proxy: agents pay per request, straight to your wallet.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,7 +16,7 @@
     "402"
   ],
   "author": "",
-  "license": "UNLICENSED",
+  "license": "BUSL-1.1",
   "type": "module",
   "dependencies": {
     "@x402/core": "^2.31.0",
@@ -40,7 +40,8 @@
   "files": [
     "bin/",
     "src/",
-    "README.md"
+    "README.md",
+    "LICENSE"
   ],
   "engines": {
     "node": ">=20"

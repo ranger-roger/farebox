@@ -92,4 +92,4 @@ No custom smart contracts. No custody. Just the x402 standard and the USDC contr
 
 ## License
 
-Copyright (c) 2026 Farebox. All rights reserved. The source is public for review and audit; licensing terms TBD.
+Business Source License 1.1 (see [LICENSE](LICENSE)). Free to run in production for endpoints you own or control, including commercially; the one restriction is offering Farebox itself as a competing hosted paywall service. Converts automatically to MIT on 2029-11-24.

@@ -13,7 +13,7 @@ npx farebox --target http://localhost:8080 --pay-to 0xYourWallet --price 0.005
 
 No account. No API key. No facilitator. Money goes straight to your wallet.
 
-The code is public. Here's how it works.
+Source-available, free to self-host. Here's how it works.
 
 ---
 
@@ -117,7 +117,7 @@ Put a fare on anything.
 Site: https://farebox.dev
 Code: https://github.com/sneakbts/farebox
 
-Source is public. Issues and PRs welcome — especially x402 client interop reports.
+BUSL-1.1 (free to self-host, MIT in 2029). Issues and PRs welcome — especially x402 client interop reports.
 
 npx farebox --target http://localhost:8080 --pay-to 0xYourWallet --price 0.005
 
