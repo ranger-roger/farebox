@@ -22,7 +22,7 @@ farebox@0.1.0 is live on npm as of today.
 
 npx farebox --target <your-api> --pay-to 0xYou --price 0.005
 
-Works cold — no install, no account, no config file. One command and your endpoint charges USDC per request. MIT: github.com/sneakbts/farebox
+Works cold — no install, no account, no config file. One command and your endpoint charges USDC per request. Code: github.com/sneakbts/farebox
 
 ### 1c. Receipts
 
@@ -73,7 +73,7 @@ For when the relevant news or discourse crosses the timeline. One-two liners; le
 
 ### 2a. On Cloudflare Monetization Gateway news
 
-A waitlist is a pricing signal. Farebox is the no-waitlist version: MIT, self-custodial, fronts anything that speaks HTTP, on npm right now.
+A waitlist is a pricing signal. Farebox is the no-waitlist version: self-custodial, fronts anything that speaks HTTP, on npm right now.
 
 ### 2b. On AWS x402 news
 

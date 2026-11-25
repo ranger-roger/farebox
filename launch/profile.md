@@ -19,13 +19,13 @@ If taken, in order of preference:
 
 ## Bio (under 160 chars)
 
-> Put a fare on anything. One command turns any API or MCP server into a USDC-per-request paywall on Base (x402). Self-custodial. No facilitator. MIT.
+> Put a fare on anything. One command turns any API or MCP server into a USDC-per-request paywall on Base (x402). Self-custodial. No facilitator.
 
 (150 characters)
 
 Alternate, slightly drier:
 
-> One-command x402 paywall proxy. USDC per request on Base, straight to your wallet. No facilitator, no account, no custody. Open source, MIT.
+> One-command x402 paywall proxy. USDC per request on Base, straight to your wallet. No facilitator, no account, no custody. Code is public.
 
 (140 characters)
 
@@ -43,7 +43,7 @@ Pin post 1 of the launch thread once it's live. If you want a standalone pin ins
 >
 > Any HTTP API or MCP server now charges USDC per request on Base. Payments settle to your wallet. We never touch funds.
 >
-> MIT. farebox.dev
+> farebox.dev
 
 (Under 280 chars. Attach the terminal GIF of a paid request succeeding — same media as thread post 3.)
 

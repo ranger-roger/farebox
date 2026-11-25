@@ -92,4 +92,4 @@ No custom smart contracts. No custody. Just the x402 standard and the USDC contr
 
 ## License
 
-MIT
+Copyright (c) 2026 Farebox. All rights reserved. The source is public for review and audit; licensing terms TBD.

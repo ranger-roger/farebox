@@ -16,7 +16,7 @@
     "402"
   ],
   "author": "",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "type": "module",
   "dependencies": {
     "@x402/core": "^2.31.0",

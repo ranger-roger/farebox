@@ -16,7 +16,7 @@ Shorter variant:
 
 ## "Isn't this what Cloudflare does?"
 
-> Same standard (x402), different posture. Cloudflare's Monetization Gateway is waitlist-only, pairs with custodial wallets, and fronts things behind Cloudflare. Farebox is MIT, self-custodial, fronts anything that speaks HTTP, and you can run it right now with one npx command.
+> Same standard (x402), different posture. Cloudflare's Monetization Gateway is waitlist-only, pairs with custodial wallets, and fronts things behind Cloudflare. Farebox is self-custodial, fronts anything that speaks HTTP, and you can run it right now with one npx command.
 
 Shorter variant:
 
@@ -40,7 +40,7 @@ Shorter variant:
 
 If pushed on "why not X chain":
 
-> Farebox follows the x402 standard, and we ship what we run: USDC on Base today. It's MIT — the repo is open if you want to take a swing at other networks.
+> Farebox follows the x402 standard, and we ship what we run: USDC on Base today. The repo is public if you want to take a swing at other networks.
 
 (Don't promise other chains. "What we ship today" is the only claim.)
 
@@ -48,7 +48,7 @@ If pushed on "why not X chain":
 
 ## "Is it audited?"
 
-> There's nothing to audit in the usual sense: no custom smart contracts, no custody. Farebox is a proxy plus the standard x402 libraries. The USDC transfer goes buyer → your wallet; Farebox verifies and forwards. The code is MIT and short — read it: github.com/sneakbts/farebox
+> There's nothing to audit in the usual sense: no custom smart contracts, no custody. Farebox is a proxy plus the standard x402 libraries. The USDC transfer goes buyer → your wallet; Farebox verifies and forwards. The code is public and short — read it: github.com/sneakbts/farebox
 
 Shorter variant:
 

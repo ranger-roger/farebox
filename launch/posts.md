@@ -54,7 +54,7 @@ Three ways to put an x402 paywall on an API right now:
 
 **AWS CloudFront.** x402 support shipped — if your API is behind CloudFront.
 
-**Farebox.** One npx command, in front of anything that speaks HTTP: a $5 VPS, a localhost tunnel, a Python script. Self-custodial — USDC settles straight to your wallet, and with --settler-key there's no facilitator at all. MIT open source. Usable today.
+**Farebox.** One npx command, in front of anything that speaks HTTP: a $5 VPS, a localhost tunnel, a Python script. Self-custodial — USDC settles straight to your wallet, and with --settler-key there's no facilitator at all. Source is public. Usable today.
 
 Cloudflare and AWS proved the demand is real. Farebox is the version that doesn't ask permission.
 
@@ -70,7 +70,7 @@ Things we want in Farebox next, in rough order:
 - a local receipts log you can grep
 - config file for people who hate long flags
 
-It's MIT — if one of these is your itch, the repo is open. github.com/sneakbts/farebox
+If one of these is your itch, the repo is public. github.com/sneakbts/farebox
 
 ---
 

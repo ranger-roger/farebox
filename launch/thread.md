@@ -13,7 +13,7 @@ npx farebox --target http://localhost:8080 --pay-to 0xYourWallet --price 0.005
 
 No account. No API key. No facilitator. Money goes straight to your wallet.
 
-Open source, MIT. Here's how it works.
+The code is public. Here's how it works.
 
 ---
 
@@ -117,7 +117,7 @@ Put a fare on anything.
 Site: https://farebox.dev
 Code: https://github.com/sneakbts/farebox
 
-MIT licensed. Issues and PRs welcome — especially x402 client interop reports.
+Source is public. Issues and PRs welcome — especially x402 client interop reports.
 
 npx farebox --target http://localhost:8080 --pay-to 0xYourWallet --price 0.005
 
