@@ -1,6 +1,6 @@
 {
   "name": "farebox",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Put a USDC fare on anything. One-command x402 paywall proxy: agents pay per request, straight to your wallet.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
